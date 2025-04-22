@@ -1,7 +1,10 @@
 # Click Dot Generator
 
 This is a simple web app built with **React + Vite**. When you click anywhere on the page, it generates a small red dot at that position.
+Deployed via Vercel:
+- https://clickdot.vercel.app/
 
+  
 ## ✨ Features
 
 - Click anywhere to create a red dot on the screen.
